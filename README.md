@@ -1,6 +1,9 @@
 # GuitarFretboard
 Inkscape extension that generates a simple guitar fretboard
 
+# ***   Archived Repository   ***  
+Moved to https://forge.chapril.org/creillerg/GuitarFretboard
+
 ## Requirements
 - Inkscape v1.0+
 - python lxml
